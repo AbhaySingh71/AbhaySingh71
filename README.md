@@ -38,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaysingh71&show_icons=true&locale=en" alt="abhaysingh71" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysingh71&" alt="abhaysingh71" /></p>
+
+![Snake animation](https://github.com/abhaysingh71/abhaysingh71/blob/output/github-contribution-grid-snake.svg)

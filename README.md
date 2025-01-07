@@ -28,13 +28,17 @@
         <img src="https://stats.quira.sh/AbhaySingh71/topics-over-time?theme=dark" alt="AbhaySingh71's GitHub | Topics Over Time" width="300">
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://quira.sh?utm_source=widgets&utm_campaign=AbhaySingh71">
         <img src="https://stats.quira.sh/AbhaySingh71/github?theme=dark" alt="AbhaySingh71's GitHub | Stats" width="300">
       </a>
     </td>
+    <td></td> <!-- Empty cell -->
   </tr>
 </table>
+
 
 
 ## 🏆 GitHub Trophies

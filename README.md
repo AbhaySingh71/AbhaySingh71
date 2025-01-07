@@ -20,7 +20,9 @@
 </a>
 
 
-[![AbhaySingh71's GitHub | Topics Over Time](https://stats.quira.sh/AbhaySingh71/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AbhaySingh71)
+<a href="https://quira.sh?utm_source=widgets&utm_campaign=AbhaySingh71">
+  <img src="https://stats.quira.sh/AbhaySingh71/topics-over-time?theme=dark" alt="AbhaySingh71's GitHub | Topics Over Time" width="500">
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhaysingh71&theme=radical&no-frame=true&no-bg=true&margin-w=4)

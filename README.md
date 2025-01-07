@@ -29,15 +29,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://quira.sh?utm_source=widgets&utm_campaign=AbhaySingh71">
-        <img src="https://stats.quira.sh/AbhaySingh71/github?theme=dark" alt="AbhaySingh71's GitHub | Stats" width="500">
-      </a>
-    </td>
-    <td></td> <!-- Empty cell -->
-  </tr>
-</table>
 
 
 

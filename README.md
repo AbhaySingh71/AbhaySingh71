@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaysingh71&" alt="abhaysingh71" /></p>
 
-![Snake animation](https://github.com/abhaysingh71/abhaysingh71/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/abhaysingh71/abhaysingh71/blob/output/github-snake-dark.svg)

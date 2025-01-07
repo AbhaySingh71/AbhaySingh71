@@ -20,19 +20,19 @@
   <tr>
     <td>
       <a href="https://quira.sh?utm_source=widgets&utm_campaign=AbhaySingh71">
-        <img src="https://stats.quira.sh/AbhaySingh71/languages-over-time?theme=dark" alt="AbhaySingh71's GitHub | Languages Over Time" width="400">
+        <img src="https://stats.quira.sh/AbhaySingh71/languages-over-time?theme=dark" alt="AbhaySingh71's GitHub | Languages Over Time" width="500">
       </a>
     </td>
     <td>
       <a href="https://quira.sh?utm_source=widgets&utm_campaign=AbhaySingh71">
-        <img src="https://stats.quira.sh/AbhaySingh71/topics-over-time?theme=dark" alt="AbhaySingh71's GitHub | Topics Over Time" width="400">
+        <img src="https://stats.quira.sh/AbhaySingh71/topics-over-time?theme=dark" alt="AbhaySingh71's GitHub | Topics Over Time" width="500">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://quira.sh?utm_source=widgets&utm_campaign=AbhaySingh71">
-        <img src="https://stats.quira.sh/AbhaySingh71/github?theme=dark" alt="AbhaySingh71's GitHub | Stats" width="400">
+        <img src="https://stats.quira.sh/AbhaySingh71/github?theme=dark" alt="AbhaySingh71's GitHub | Stats" width="500">
       </a>
     </td>
     <td></td> <!-- Empty cell -->
@@ -54,3 +54,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![snake gif](https://github.com/abhaysingh71/abhaysingh71/blob/output/github-snake-dark.svg)
+
+<a href="https://camo.githubusercontent.com/19de5b62d3e470af845ca150a24ad3fe9af6b87560195d3c4bac8be43f1ad51d/68747470733a2f2f7373722d636f6e747269627574696f6e732d7376672e76657263656c2e6170702f5f2f55545341565332363f63686172743d3364626172266761703d302e36267363616c653d32266772616469656e743d7472756526666c617474656e3d3026616e696d6174696f6e3d6d65737326616e696d6174696f6e5f6475726174696f6e3d3626616e696d6174696f6e5f6c6f6f703d7472756526666f726d61743d737667267765656b733d3530267468656d653d707572706c65267769646765745f73697a653d6c6172676526636f6c6f72733d4646364636312c4646393637312c4646433135452c3732463245422c3132383241322c4643453244422c4641443444382c444244464644266461726b3d74727565">
+  <img src="https://camo.githubusercontent.com/19de5b62d3e470af845ca150a24ad3fe9af6b87560195d3c4bac8be43f1ad51d/68747470733a2f2f7373722d636f6e747269627574696f6e732d7376672e76657263656c2e6170702f5f2f55545341565332363f63686172743d3364626172266761703d302e36267363616c653d32266772616469656e743d7472756526666c617474656e3d3026616e696d6174696f6e3d6d65737326616e696d6174696f6e5f6475726174696f6e3d3626616e696d6174696f6e5f6c6f6f703d7472756526666f726d61743d737667267765656b733d3530267468656d653d707572706c65267769646765745f73697a653d6c6172676526636f6c6f72733d4646364636312c4646393637312c4646433135452c3732463245422c3132383241322c4643453244422c4641443444382c444244464644266461726b3d74727565" alt="GitHub Contribution Chart" width="800">
+</a>
+

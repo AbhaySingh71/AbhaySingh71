@@ -16,14 +16,26 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhaysingh71&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaysingh71&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=AbhaySingh71">
-  <img src="https://stats.quira.sh/AbhaySingh71/languages-over-time?theme=dark" alt="AbhaySingh71's GitHub | Languages Over Time" width="500">
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://quira.sh?utm_source=widgets&utm_campaign=AbhaySingh71">
+        <img src="https://stats.quira.sh/AbhaySingh71/languages-over-time?theme=dark" alt="AbhaySingh71's GitHub | Languages Over Time" width="300">
+      </a>
+    </td>
+    <td>
+      <a href="https://quira.sh?utm_source=widgets&utm_campaign=AbhaySingh71">
+        <img src="https://stats.quira.sh/AbhaySingh71/topics-over-time?theme=dark" alt="AbhaySingh71's GitHub | Topics Over Time" width="300">
+      </a>
+    </td>
+    <td>
+      <a href="https://quira.sh?utm_source=widgets&utm_campaign=AbhaySingh71">
+        <img src="https://stats.quira.sh/AbhaySingh71/github?theme=dark" alt="AbhaySingh71's GitHub | Stats" width="300">
+      </a>
+    </td>
+  </tr>
+</table>
 
-
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=AbhaySingh71">
-  <img src="https://stats.quira.sh/AbhaySingh71/topics-over-time?theme=dark" alt="AbhaySingh71's GitHub | Topics Over Time" width="500">
-</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhaysingh71&theme=radical&no-frame=true&no-bg=true&margin-w=4)

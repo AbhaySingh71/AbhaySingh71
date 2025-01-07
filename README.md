@@ -20,12 +20,12 @@
   <tr>
     <td>
       <a href="https://quira.sh?utm_source=widgets&utm_campaign=AbhaySingh71">
-        <img src="https://stats.quira.sh/AbhaySingh71/languages-over-time?theme=dark" alt="AbhaySingh71's GitHub | Languages Over Time" width="600">
+        <img src="https://stats.quira.sh/AbhaySingh71/languages-over-time?theme=dark" alt="AbhaySingh71's GitHub | Languages Over Time" width="800">
       </a>
     </td>
     <td>
       <a href="https://quira.sh?utm_source=widgets&utm_campaign=AbhaySingh71">
-        <img src="https://stats.quira.sh/AbhaySingh71/topics-over-time?theme=dark" alt="AbhaySingh71's GitHub | Topics Over Time" width="600">
+        <img src="https://stats.quira.sh/AbhaySingh71/topics-over-time?theme=dark" alt="AbhaySingh71's GitHub | Topics Over Time" width="800">
       </a>
     </td>
   </tr>

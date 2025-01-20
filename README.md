@@ -5,6 +5,9 @@
 🌱 I’m currently deepening my expertise in Artificial Intelligence, Machine Learning, and Neural Networks, with a focus on advanced algorithms, model optimization, and innovative applications.<br>📈 I have a strong foundation in data science and analytics, including data wrangling, visualization, and leveraging libraries such as Pandas, NumPy, and Scikit-learn to derive actionable insights.<br>💬 Ask me about AI/ML algorithms, data science techniques, model optimization, MLOps, computer vision, and natural language processing. I’m also eager to discuss real-world applications of AI and how to drive impactful solutions.<br>📝 I regularly write articles on https://medium.com/@abhaysingh71711<br>⚡ Fun fact I love to play with data.<br>📫 How to reach me abhaysingh71711@gmail.com
 
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ezatom__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-singh-050a5b293) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@abhaysingh71711) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@abhaysingh71711) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/ezatom)

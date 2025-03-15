@@ -19,20 +19,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhaysingh71&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaysingh71&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<table>
-  <tr>
-    <td>
-      <a href="https://quira.sh?utm_source=widgets&utm_campaign=AbhaySingh71">
-        <img src="https://stats.quira.sh/AbhaySingh71/languages-over-time?theme=dark" alt="AbhaySingh71's GitHub | Languages Over Time" width="800">
-      </a>
-    </td>
-    <td>
-      <a href="https://quira.sh?utm_source=widgets&utm_campaign=AbhaySingh71">
-        <img src="https://stats.quira.sh/AbhaySingh71/topics-over-time?theme=dark" alt="AbhaySingh71's GitHub | Topics Over Time" width="800">
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 
 

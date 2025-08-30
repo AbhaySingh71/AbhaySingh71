@@ -5,7 +5,7 @@
 🌱 I’m currently deepening my expertise in Artificial Intelligence, Machine Learning, and Neural Networks, with a focus on advanced algorithms, model optimization, and innovative applications.<br>📈 I have a strong foundation in data science and analytics, including data wrangling, visualization, and leveraging libraries such as Pandas, NumPy, and Scikit-learn to derive actionable insights.<br>💬 Ask me about AI/ML algorithms, data science techniques, model optimization, MLOps, computer vision, and natural language processing. I’m also eager to discuss real-world applications of AI and how to drive impactful solutions.<br>📝 I regularly write articles on https://medium.com/@abhaysingh71711<br>⚡ Fun fact I love to play with data.<br>📫 How to reach me abhaysingh71711@gmail.com
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
 ## 🌐 Socials:

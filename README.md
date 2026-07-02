@@ -33,8 +33,13 @@
 ![Anthropic Claude](https://img.shields.io/badge/Claude-FF6F61?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-FF6F00?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![Mistral AI](https://img.shields.io/badge/Mistral%20AI-000000?style=for-the-badge&logo=mistral&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-00897B?style=for-the-badge&logo=deepseek&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-006400?style=for-the-badge&logo=knowledgebase&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-1C1C1C?style=for-the-badge&logo=ollama&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-00897B?style=for-the-badge&logo=deepseek&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-006400?style=for-the-badge&logo=knowledgebase&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-1C1C1C?style=for-the-badge&logo=ollama&logoColor=white) ![DeepEval](https://img.shields.io/badge/DeepEval-6A0DAD?style=for-the-badge&logo=python&logoColor=white)
+![Ragas](https://img.shields.io/badge/Ragas-00A67E?style=for-the-badge&logo=python&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logo=cohere&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge&logo=qdrant&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Guardrails AI](https://img.shields.io/badge/Guardrails_AI-FF6B35?style=for-the-badge&logo=python&logoColor=white)
 
 
 # 📊 GitHub Stats:
